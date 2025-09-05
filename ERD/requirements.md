@@ -67,4 +67,6 @@ This document describes the database schema for the Airbnb-like project.
 - Property → Review (1:N)
 - User (guest) → Review (1:N)
 - User ↔ User via Message (M:N)
+## ERD Diagram
+![ERD](./ERD.png)
 
